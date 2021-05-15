@@ -39,3 +39,6 @@
 * Bearing
     * 6906 x2
         * Two bearings are needed because both sides of the filament spool need to be held.
+* Filament
+    * Compatible with spool inner diameter of 57mm
+        * Pxmalion's 1.75mm PLA filament and others
